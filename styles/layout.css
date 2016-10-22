@@ -1,0 +1,39 @@
+body {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+#container {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+#masthead {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+#navigation {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+#content {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+#footer {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+tr.home {
+    font-weight:bold;
+}
+
+table.fixturetable, table.fixturetable td, table.fixturetable th {
+    border-collapse:collapse;
+    border: 1px solid black;
+}
